@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scholarship</string>
+    <string-array name="domain">
+        <item>Engineering</item>
+        <item>Arts and Science</item>
+        <item>Medical</item>
+    </string-array>
+</resources>
